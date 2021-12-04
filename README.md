@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Quốc Bảo</h1>
 <h3 align="center">I'm a Front-End Web Developer</h3>
 
+- 🌱 I’m currently learning **ReactJS , TypeScript**
+
+- 👨‍💻 All of my projects are available at [http://baodoan-portfolio.surge.sh/](http://baodoan-portfolio.surge.sh/)
+
+- 💬 Ask me about **Html , Css , Scss , JS , Pug , ReactJS**
+
+- 📫 How to reach me **baodakmil123@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/baodoan29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/baodoan29/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/baodoan29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/baodoan29/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
