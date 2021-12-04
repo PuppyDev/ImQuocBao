@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quốc Bảo</h1>
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+<div align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </div>
 <h3 align="center">I'm a Front-End Web Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS , TypeScript**
