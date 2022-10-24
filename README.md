@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quốc Bảo</h1>
 <h3 align="center">I'm a Front-End Web Developer</h3>
-<div align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </div>
+<div align="center"><img height="40" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 
 
 <h3 align="center">Connect with me:</h3>
